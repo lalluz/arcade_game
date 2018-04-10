@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+.score-panel {
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.2em;
+    max-width: 505px;
+    margin: auto;
+}
