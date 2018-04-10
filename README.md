@@ -3,16 +3,16 @@ A [Udacity Front End Nanodegree](https://eu.udacity.com/course/front-end-web-dev
 A Frogger like Arcade Game using JavaScript OOP.
 
 ## How to Play
-You have to move your player across the street and reach the other side without being touched by the bug-enemies that are running in the street at different speeds!
+You have to move your player across the street and reach the other side without being touched by the bug-enemies running in the street at different speeds!
 
 ## Project Contents
-The js folder contains:
+The /js folder contains:
 * resources.js - A given image loading utility.
 * engine.js - A given file that provides the game loop functionality.
 * app.js - A file where the classes and their methods are defined.
 
 ## Requirements
-A browser to open it. Since the commands to move the player are the four arrows in the keyboard, it should be played with a desktop or laptop computer.
+A browser to open the file index.html. Since the commands to move the player are the four arrows in the keyboard, it should be played from a desktop or laptop computer.
 
 ## How to Run it
 To see the web page and play simply open the browser at this url:
